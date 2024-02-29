@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-![HowePa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HowePa&show_icons=true&theme=radical)   
+![HowePa's GitHub stats](https://github-readme-stats.vercel.app/api?username=HowePa&show_icons=true&theme=radical) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HowePa&hide_progress=true&theme=radical)
 
 <!--
